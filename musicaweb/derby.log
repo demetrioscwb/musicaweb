@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 15 22:56:01 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015e-8866-5531-00000630c460 
+on database directory E:\Projetos\workspace_sinax\musicaweb\MUSICWEBDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/demo/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_141-b15
+user.dir=E:\Projetos\workspace_sinax\musicaweb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
